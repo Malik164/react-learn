@@ -1,0 +1,11 @@
+.list-table{
+    width:80vw;
+    margin-inline: auto;
+    max-height: 30rem;
+    overflow: scroll;
+    background-color: #fff;
+    overflow-x: hidden;
+    border-radius: 1em;
+    color: rgb(107, 106, 106);
+
+}
